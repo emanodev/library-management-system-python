@@ -156,4 +156,7 @@ def menu():
 
 # Executando a função menu se o script for executado diretamente
 if __name__ == "__main__":
+    print("\n=========================================")
+    print(" SISTEMA DE GERENCIAMENTO DE BIBLIOTECA ")
+    print("=========================================\n")
     menu()
