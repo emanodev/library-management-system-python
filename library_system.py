@@ -89,7 +89,7 @@ class Biblioteca:
 def menu():
     biblioteca = Biblioteca()
     while True:
-        print("\n1. Cadastrar Livro")
+        print("1. Cadastrar Livro")
         print("2. Cadastrar Usuário")
         print("3. Emprestar Livro")
         print("4. Devolver Livro")
